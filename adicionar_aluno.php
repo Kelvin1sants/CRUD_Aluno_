@@ -35,4 +35,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     Email: <input type="text" name="email"><br>
     <input type="submit" value="Adicionar Aluno">
 </form>
-
